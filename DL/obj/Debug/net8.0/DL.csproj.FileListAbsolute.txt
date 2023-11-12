@@ -1,0 +1,5 @@
+C:\Users\quocd\Desktop\book-back\DL\obj\Debug\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quocd\Desktop\book-back\DL\obj\Debug\net8.0\DL.AssemblyInfoInputs.cache
+C:\Users\quocd\Desktop\book-back\DL\obj\Debug\net8.0\DL.AssemblyInfo.cs
+C:\Users\quocd\Desktop\book-back\DL\obj\Debug\net8.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\quocd\Desktop\book-back\DL\obj\Debug\net8.0\DL.csproj.AssemblyReference.cache

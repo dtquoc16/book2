@@ -1,0 +1,14 @@
+C:\Users\quocd\Desktop\book-back\Common\bin\Debug\net8.0\Common.exe
+C:\Users\quocd\Desktop\book-back\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\quocd\Desktop\book-back\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+C:\Users\quocd\Desktop\book-back\Common\bin\Debug\net8.0\Common.dll
+C:\Users\quocd\Desktop\book-back\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.dll
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+C:\Users\quocd\Desktop\book-back\Common\obj\Debug\net8.0\ref\Common.dll
